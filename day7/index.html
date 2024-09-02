@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            height: 100px;
+            width: 100px;
+            background-color: brown;
+            animation: gaurav 3s infinite alternate;
+            position: absolute;
+            top: 40%;
+            left: 40%;
+            padding: 40px;
+
+        }
+        /* @keyframes gaurav{
+            form{background-color: peru;border-radius: 100%;color: black;}
+            to{background-color: rgb(9,239,36);border-radius: 50%;color: red;}
+        } */
+        @keyframes gaurav{
+            0%{top: 0px;left: 0px;border-radius: 10%;}
+            25%{top: 0px;left: 200px;border-radius: 50%;}
+            50%{top: 200px;left: 200px;border-radius: 100%;}
+            75%{top: 200px;left: 0px;border-radius: 50%;}
+            100%{top: 0px;left: 0px;}
+        }
+    </style>
+</head>
+<body>
+    <div>Welcome</div>
+</body>
+</html>

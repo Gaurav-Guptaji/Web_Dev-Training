@@ -1,0 +1,50 @@
+.A {
+    height: 100px;
+    background-color: orange;
+}
+.B {
+    height: 100px;
+    background-color: rgb(218, 244, 251);
+}
+.C {
+    height: 100px;
+    background-color: green;
+}
+.D {
+    height: 100px;
+    background-color: orange;
+}
+.E {
+    height: 100px;
+    background-color: rgb(218, 244, 251);
+}
+.F {
+    height: 100px;
+    background-color: green;
+}
+.G {
+    height: 100px;
+    background-color: orange
+}
+.H {
+    height: 100px;
+    background-color: rgb(218, 244, 251);
+}
+.I {
+    height: 100px;
+    background-color: green;
+}
+.J {
+    height: 100px;
+    background-color: yellow;
+}
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-left: 48%;
+}
+div{
+    border: 1px solid black;
+}

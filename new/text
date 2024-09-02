@@ -1,0 +1,16 @@
+const express=require('express')
+const app=express()
+const mongoose=require('mongoose')
+
+mongoose.connect('url').save  //this is used to connect frontend and backend.
+mongoose.schema(
+    auth{
+        name:"username"
+        pass:"pass"
+    }
+)
+
+app.get('/index',function(req,res){
+    //
+})
+app.listen(3000)

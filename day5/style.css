@@ -1,0 +1,32 @@
+p{
+    color: brown;
+    text-shadow: 2px 2px 2px rgb(8,250,20);
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-align: center;
+    font-size: large;
+    font-family: 'Dancing Script', cursive;
+}
+/* div{
+    /* height: 150px;
+    width: 150px;
+    border: 2px solid red;
+    overflow: scroll;
+    box-shadow: 5px 5px blue;
+} */ */
+span{
+    color: red;
+}
+/* Positions-
+1.relative
+2.absolute
+3.fixed
+4.sticky */
+.positions{
+    border: 2px solid red;
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    margin-top: 100px;
+    margin-left: 100px;
+}

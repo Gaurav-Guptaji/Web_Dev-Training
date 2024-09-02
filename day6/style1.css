@@ -1,0 +1,27 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 100px;
+    border-radius: 10%;
+    
+}
+div:hover{
+    height: 200px;
+    width: 200px;
+    transform: rotate(10000deg);
+    transition: width 3s, height 3s transform 10s;
+}
+img{
+    height: 100px;
+    width: 100px;
+    transition-duration: 3s;
+}
+img:hover{
+    /* transform: rotate(10000deg); */
+    transform: translate(1150px);
+    transition: transform 5s;
+    /* transform: scale(2,2); */
+    /* transform: translate(100px,100px); */
+    /* transform: skew(20deg); */
+}

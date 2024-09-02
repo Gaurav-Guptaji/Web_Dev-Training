@@ -1,0 +1,11 @@
+CSS:
+1.Inline (in tag) CSS
+2.Internal CSS
+3.External CSS
+
+tag_name or class_name {
+    style: value;
+    style: value;
+    style: value;
+    style: value;
+}

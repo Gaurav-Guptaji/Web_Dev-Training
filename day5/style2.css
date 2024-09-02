@@ -1,0 +1,12 @@
+hr{
+    border: 2px solid black;
+
+}
+li{
+    list-style: none;
+    float: left;
+    margin: 30px;
+}
+ul{
+    margin-left: 700px;
+}

@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+}
+body{
+    background-image: url(taj\ mahal.jpg);
+    background-size: 1250px;
+}
+li{
+    display: inline;
+    margin: 10px;
+}
+ul{
+    margin-left: 800px;
+}
+nav{
+    background-color: rgb(205,182,226);
+    height: 40px;
+    padding-top: 14px;
+    color: rgb(156,28,8);
+}
+h1
+{
+    margin-top: 150px;
+    text-align: center;
+    color: aliceblue;
+}
+.one{
+    margin-left: 490px;
+    margin-top: 50px;
+}
+.two{
+    margin-left: 80px;
+    margin-top: 50px;
+}
+button{
+    height: 40px;
+    border-radius: 10px;
+    background-color: azure;
+}

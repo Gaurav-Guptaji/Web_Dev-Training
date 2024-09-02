@@ -1,0 +1,6 @@
+OPENING TAG
+CLOSING TAG
+
+    <tag_name atr='value' atr='value' atr='value' .....>
+        cont
+    </Tag_name>
